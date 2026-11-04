@@ -1,6 +1,6 @@
 [project]
 name = "json-pointer-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Apply RFC 6901 JSON Pointers to Python data structures without external dependencies."
 requires-python = ">=3.10"
 dependencies = []
